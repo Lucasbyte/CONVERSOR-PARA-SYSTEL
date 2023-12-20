@@ -1,0 +1,40 @@
+            009482000089Chocolate branco e nutella.
+NÃO CONTEM GLUTEN.  
+ALERGICOS:contem trigo, centeio, cevada, aveia, ovo, 
+soja e leite.
+@
+            000089000089Chocolate branco e nutella.
+NÃO CONTEM GLUTEN.  
+ALERGICOS:contem trigo, centeio, cevada, aveia, ovo, 
+soja e leite.
+@
+            008972008972Far. trigo especial, açucar, fermento, ovo, banha, sal 
+marinho.
+CONTEM GLUTEN.   ALERGICOS:contem trigo, centeio, 
+cevada, aveia, ovo, soja e leite.
+@
+            000519000519Far. trigo especial, fermento biologico, sal marinho.
+CONTEM GLUTEN.   ALERGICOS:contem trigo, centeio, 
+cevada, aveia, ovo, soja e leite.
+@
+            009481009481Ingredientes: Farinha de trigo especial, farinha de 
+centeio, fermento fresco, sal marinho.
+CONTEM GLUTEN.
+Alérgicos: contém trigo, centeio. 
+	
+@
+            009483009483Ingredientes: Farinha de trigo especial, aveia em 
+flocos, semente de girassol, linhaça, gergelim branco, 
+fermento fresco, açafrão, sal marinho.
+CONTEM GLUTEN.
+Alérgicos: contém trigo, aveia. Pode conter: centeio, 
+ovo, leite. 
+	
+@
+            009542009542Ingredientes: Farinha de trigo especial, gema, açúcar, 
+margarina, fermento fresco e sal marinho.
+CONTEM GLUTEN.
+Alérgicos: contém trigo, centeio, aveia, cevada, ovo e 
+derivado de leite.
+	
+@

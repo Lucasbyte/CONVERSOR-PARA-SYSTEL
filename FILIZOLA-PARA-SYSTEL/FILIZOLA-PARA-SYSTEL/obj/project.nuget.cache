@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0wSfBd5tnkPN1EIRtkz+Ozzm19+mFRbP3XeirJqp1sGZbL3hpDkm4tFjQkat8ii/7AG5sPY8MvK0B17efXLTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAXWELL\\Desktop\\FILIZOLA-PARA-SYSTEL\\FILIZOLA-PARA-SYSTEL\\FILIZOLA-PARA-SYSTEL\\FILIZOLA-PARA-SYSTEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAXWELL\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.23\\microsoft.netcore.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\MAXWELL\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\MAXWELL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
